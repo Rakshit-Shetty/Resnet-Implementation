@@ -7,11 +7,14 @@
  
  | MODEL | ACCURACY |
  | ----- | -------- |
- | ResNet18 | 87.26 |
+ | ResNet18 | 91.89 |
  | ResNet34 | 88.72 |
  | ResNet50 |      |
  | RedNet101 |      |
  | ResNet152 |      |
- 
+
+# Requirements
+PyTorch 1.0+ and Python 3.6+
+
 # Further Work 
 Implement the same on other datasets like **ImageNet**, **MNIST**, **COCO**. And try to improve the accuracy of the models generated
