@@ -8,7 +8,7 @@
  | MODEL | ACCURACY |
  | ----- | -------- |
  | ResNet18 | 91.89 |
- | ResNet34 | 88.72 |
+ | ResNet34 | 92.77 |
  | ResNet50 |      |
  | RedNet101 |      |
  | ResNet152 |      |
