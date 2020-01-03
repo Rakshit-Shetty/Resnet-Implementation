@@ -10,8 +10,8 @@
  | ResNet18 | 91.89 |
  | ResNet34 | 92.77 |
  | ResNet50 | 86.96 |
- | RedNet101 |      |
- | ResNet152 |      |
+ | RedNet101 | 85.56 |
+ | ResNet152 | 84.65 |
 
 # Requirements
 PyTorch 1.0+ and Python 3.6+
